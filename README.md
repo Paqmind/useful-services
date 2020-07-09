@@ -8,4 +8,8 @@ https://crontab.guru/
 
 https://wetransfer.com/
 
+https://draw.io
+
+https://awwapp.com/
+
 WIP
