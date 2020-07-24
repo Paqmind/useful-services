@@ -1,6 +1,6 @@
 # Resources
 
-Than are occasionally useful (for the Paqmind infrastructure).
+That are occasionally useful (for the Paqmind infrastructure).
 
 https://www.vercel-status.com/ – live status of Vercel services 
 
