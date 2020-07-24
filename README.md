@@ -2,14 +2,16 @@
 
 Than are occasionally useful (for the Paqmind infrastructure).
 
-https://www.vercel-status.com/
+https://www.vercel-status.com/ – live status of Vercel services 
 
-https://crontab.guru/
+https://status.digitalocean.com/ – live status of Digital Ocean services
 
-https://wetransfer.com/
+https://crontab.guru/ – create Cron tabs
 
-https://draw.io
+https://wetransfer.com/ – share files 
 
-https://awwapp.com/
+https://draw.io – draw diagrams
+
+https://app.k6.io/ – performance/load testing
 
 WIP
