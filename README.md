@@ -16,4 +16,6 @@ https://app.k6.io/ – performance/load testing
 
 https://blazemeter.com – performance/load testing
 
+https://ezgif.com/ – make GIFs
+
 WIP
