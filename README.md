@@ -6,6 +6,8 @@ https://www.vercel-status.com/ – live status of Vercel services
 
 https://status.digitalocean.com/ – live status of Digital Ocean services
 
+https://status.npmjs.org/ – live status of NPM services
+
 https://crontab.guru/ – create Cron tabs
 
 https://wetransfer.com/ – share files 
