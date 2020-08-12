@@ -18,6 +18,16 @@ https://app.k6.io/ – performance/load testing
 
 https://blazemeter.com – performance/load testing
 
+## Assets
+
 https://ezgif.com/ – make GIFs
+https://jakearchibald.github.io/svgomg/
+
+#### CLI 
+
+```
+$ brew install svgo
+$ brew install webp
+```
 
 WIP
