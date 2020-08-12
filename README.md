@@ -21,7 +21,8 @@ https://blazemeter.com – performance/load testing
 ## Assets
 
 https://ezgif.com/ – make GIFs
-https://jakearchibald.github.io/svgomg/
+
+https://jakearchibald.github.io/svgomg/ – optimize SVG
 
 #### CLI 
 
