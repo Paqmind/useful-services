@@ -20,6 +20,8 @@ https://blazemeter.com – performance/load testing
 
 ## Assets
 
+https://imagekit.io/ – image hosting with live resize (first time that I see sharp resize, amazing)
+
 https://ezgif.com/ – make GIFs
 
 https://jakearchibald.github.io/svgomg/ – optimize SVG
