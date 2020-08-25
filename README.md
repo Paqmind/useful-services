@@ -14,6 +14,8 @@ https://wetransfer.com/ – share files
 
 https://draw.io – draw diagrams
 
+https://bundlephobia.com/ – the cost of adding an npm package
+
 https://app.k6.io/ – performance/load testing
 
 https://blazemeter.com – performance/load testing
