@@ -22,6 +22,8 @@ https://blazemeter.com – performance/load testing
 
 ## Assets
 
+https://fast.io/ – statis hosting with automatic Google Drive (Dropbox, etc) <-> AWS S3 synchronization
+
 https://imagekit.io/ – image hosting with live resize (first time that I see sharp resize, amazing)
 
 https://ezgif.com/ – make GIFs
