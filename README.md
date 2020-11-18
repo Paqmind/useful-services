@@ -26,6 +26,14 @@ https://www.webpagetest.org – performance, security, SEO, etc checks
 
 https://observatory.mozilla.org – performance, security checks
 
+https://www.seoptimer.com – another good MANY-IN-ONE checker
+
+https://gtmetrix.com – another good MANY-IN-ONE checker
+
+https://dareboost.com – another good MANY-IN-ONE checker
+
+https://yellowlab.tools – another good MANY-IN-ONE checker
+
 ## Assets
 
 https://fast.io – statis hosting with automatic Google Drive (Dropbox, etc) <-> AWS S3 synchronization
