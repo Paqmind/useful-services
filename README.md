@@ -20,6 +20,12 @@ https://app.k6.io/ – performance/load testing
 
 https://blazemeter.com – performance/load testing
 
+## Page Validation
+
+https://www.webpagetest.org/ – performance, security, SEO, etc checks
+
+https://observatory.mozilla.org/ – performance, security checks
+
 ## Assets
 
 https://fast.io/ – statis hosting with automatic Google Drive (Dropbox, etc) <-> AWS S3 synchronization
