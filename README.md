@@ -16,11 +16,15 @@ https://draw.io – draw diagrams
 
 https://bundlephobia.com – the cost of adding an npm package
 
+## Load Tests
+
 https://app.k6.io – performance/load testing
 
 https://blazemeter.com – performance/load testing
 
-## Page Validation
+https://loader.io - didn't try
+
+## Mixed Tests
 
 https://www.webpagetest.org – performance, security, SEO, etc checks
 
