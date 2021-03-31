@@ -48,6 +48,8 @@ https://ezgif.com – make GIFs
 
 https://jakearchibald.github.io/svgomg – optimize SVG
 
+https://www.photopea.com/ – free PS alternative with similar UI/UX & shortcuts 👍
+
 #### CLI 
 
 ```
