@@ -59,4 +59,10 @@ $ brew install svgo
 $ brew install webp
 ```
 
+## Other
+
+Not found what you looked for?! 
+
+https://free-for.dev
+
 WIP
