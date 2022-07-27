@@ -63,8 +63,8 @@ $ brew install webp
 
 Not found what you looked for?! 
 
-https://free-for.dev
+https://free-for.dev – free services
 
-https://gist.github.com/bmaupin/0ce79806467804fdbbf8761970511b8c
+https://gist.github.com/bmaupin/0ce79806467804fdbbf8761970511b8c – free database providers (most are "free")
 
 WIP
