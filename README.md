@@ -34,7 +34,7 @@ https://www.seoptimer.com – another good MANY-IN-ONE checker
 
 https://gtmetrix.com – another good MANY-IN-ONE checker
 
-https://dareboost.com – another good MANY-IN-ONE checker
+~https://dareboost.com – another good MANY-IN-ONE checker~ (became paid)
 
 https://yellowlab.tools – another good MANY-IN-ONE checker
 
