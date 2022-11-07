@@ -30,11 +30,11 @@ https://www.webpagetest.org – performance, security, SEO, etc checks
 
 https://observatory.mozilla.org – performance, security checks
 
-https://www.seoptimer.com – another good MANY-IN-ONE checker
+~https://www.seoptimer.com – another good MANY-IN-ONE checker~ -- doesn't work properly in my tests
 
 https://gtmetrix.com – another good MANY-IN-ONE checker
 
-~https://dareboost.com – another good MANY-IN-ONE checker~ (became paid)
+~https://dareboost.com – another good MANY-IN-ONE checker~ -- became paid
 
 https://yellowlab.tools – another good MANY-IN-ONE checker
 
