@@ -16,6 +16,10 @@ https://draw.io – draw diagrams
 
 https://bundlephobia.com – the cost of adding an npm package
 
+## Security
+
+https://zelark.github.io/nano-id-cc/ – ID collision calculator
+
 ## Load Tests
 
 https://app.k6.io – performance/load testing
