@@ -16,6 +16,8 @@ https://draw.io – draw diagrams
 
 https://bundlephobia.com – the cost of adding an npm package
 
+https://miragejs.com – mock server API on the client
+
 ## Security
 
 https://zelark.github.io/nano-id-cc/ – ID collision calculator
@@ -52,9 +54,9 @@ https://ezgif.com – make GIFs
 
 https://jakearchibald.github.io/svgomg – optimize SVG
 
-https://www.photopea.com/ – free PS alternative with similar UI/UX & shortcuts 👍
+https://www.photopea.com – free PS alternative with similar UI/UX & shortcuts 👍
 
-https://transfonter.org/ – generate web font files (otf -> woff, etc)
+https://transfonter.org – generate web font files (otf -> woff, etc)
 
 #### CLI 
 
