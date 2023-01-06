@@ -44,6 +44,13 @@ https://gtmetrix.com – another good MANY-IN-ONE checker
 
 https://yellowlab.tools – simple overview MANY-IN-ONE checker
 
+## Free or Mock APIs with Good quality
+
+- https://swapi.dev/ – Star Wars API (REST)
+- https://rickandmortyapi.com – Rick & Morty API (REST, GraphQL)
+- https://jsonplaceholder.typicode.com/ – classic API placeholder server (REST)
+- https://api.spacex.land/graphql/ - SpaceX API (GraphQL, REST, read-only)
+
 ## Assets
 
 https://fast.io – statis hosting with automatic Google Drive (Dropbox, etc) <-> AWS S3 synchronization
