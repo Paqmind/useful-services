@@ -18,9 +18,13 @@ https://bundlephobia.com – the cost of adding an npm package
 
 https://miragejs.com – mock server API on the client
 
+## Programming
+
+https://regex101.com – invaluable RegExp debugger 
+
 ## Security
 
-https://zelark.github.io/nano-id-cc/ – ID collision calculator
+- https://zelark.github.io/nano-id-cc/ – ID collision calculator
 
 ## Load Tests
 
