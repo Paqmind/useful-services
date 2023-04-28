@@ -12,11 +12,18 @@ https://crontab.guru – create Cron tabs
 
 https://wetransfer.com – share files 
 
-https://draw.io – draw diagrams
-
 https://bundlephobia.com – the cost of adding an npm package
 
 https://miragejs.com – mock server API on the client
+
+## System Architecture
+
+https://draw.io – draw diagrams (Visio clone)
+https://whimsical.com – draw diagrams (multiple types)
+
+## Draw
+
+https://photopea.com
 
 ## Programming
 
@@ -24,7 +31,7 @@ https://regex101.com – invaluable RegExp debugger
 
 ## Security
 
-- https://zelark.github.io/nano-id-cc/ – ID collision calculator
+https://zelark.github.io/nano-id-cc/ – ID collision calculator
 
 ## Load Tests
 
