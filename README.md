@@ -12,7 +12,7 @@ https://crontab.guru – create Cron tabs
 
 https://wetransfer.com – share files 
 
-https://bundlephobia.com – the cost of adding an npm package
+https://bundlejs.com/ – the cost of bundling a package
 
 https://miragejs.com – mock server API on the client
 
