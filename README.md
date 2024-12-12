@@ -22,6 +22,8 @@ https://draw.io – draw diagrams (Visio clone)
 
 https://whimsical.com – draw diagrams (multiple types)
 
+https://alex7kom.github.io/nano-nanoid-cc – UID collision calculator
+
 ## Draw
 
 https://photopea.com
