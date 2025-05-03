@@ -19,6 +19,11 @@ That are occasionally useful (for the Paqmind infrastructure).
 - https://draw.io – draw diagrams (Visio clone)
 - https://whimsical.com – draw diagrams (multiple types)
 
+### Design
+
+- https://uicolors.app – Tailwind CSS Color Generator
+- https://colorkit.io – Color Blender
+
 ### Development
 
 - https://regex101.com – invaluable RegExp debugger 
