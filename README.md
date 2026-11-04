@@ -10,8 +10,9 @@ That are occasionally useful (for the Paqmind infrastructure).
 - https://status.digitalocean.com – live status of Digital Ocean services
 - https://status.npmjs.org – live status of NPM services
 - https://wetransfer.com – share files 
-- https://bundlejs.com/ – the cost of bundling a package
+- https://bundlejs.com – the cost of bundling a package
 - https://miragejs.com – mock server API on the client
+- https://foundermail.io – email service
 
 ### Drawing & Diagrams
 
